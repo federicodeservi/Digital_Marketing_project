@@ -1,2 +1,3 @@
 # Digital_Marketing_project
-Repository for the Digital Marketing project
+
+[IT] Repository for the Digital Marketing project
